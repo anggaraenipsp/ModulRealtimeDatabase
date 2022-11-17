@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979749124052",
+    "project_id": "realtimeanggi",
+    "storage_bucket": "realtimeanggi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979749124052:android:7edcef9fcac978f3e78841",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979749124052-gt15vchmtg6v3j7t29056vi3ppcar6n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaNwzrXFKvJ_Xu4KSzyiOxLHR4FeUD6EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979749124052-gt15vchmtg6v3j7t29056vi3ppcar6n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
